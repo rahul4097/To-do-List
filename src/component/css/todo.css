@@ -1,0 +1,41 @@
+
+.todo{
+    background-color: white;
+    width: 450px;
+    height: 600px;
+    padding: 10px;
+    border-radius: 20px;
+    flex-direction: column;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    margin-top: 170px;
+    margin: auto;
+    display: flex;
+}
+.header{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.todo-add{
+    display: flex;
+}
+.input-list{
+    width: 250px;
+    height: auto;
+    outline: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.add-btn-item{
+    border: 1px solid black;
+    width: 55px;
+    height: auto;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-left: 5px;
+    cursor: pointer;
+}
